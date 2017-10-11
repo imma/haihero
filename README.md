@@ -1,0 +1,1 @@
+content/haihero.md
